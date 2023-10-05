@@ -11,7 +11,7 @@
 6. Display the employee table
 
 ### Program:
-```
+```sql
 SQL> CREATE TABLE emp(empid number, empname varchar(10), dept varchar(10),salary number);
 Table created.
 SQL> CREATE OR REPLACE PROCEDURE insert_employee_data AS
